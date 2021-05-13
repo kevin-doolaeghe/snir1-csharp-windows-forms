@@ -1,0 +1,20 @@
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\bin\Debug\Equation2ndDeg.exe.config
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\bin\Debug\Equation2ndDeg.exe
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\bin\Debug\Equation2ndDeg.pdb
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.csprojResolveAssemblyReference.cache
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.Form1.resources
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.Properties.Resources.resources
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.csproj.GenerateResource.Cache
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.csproj.CoreCompileInputs.cache
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.exe
+D:\DOOLAEGHE\C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.pdb
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\bin\Debug\Equation2ndDeg.exe.config
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\bin\Debug\Equation2ndDeg.exe
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\bin\Debug\Equation2ndDeg.pdb
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.csprojResolveAssemblyReference.cache
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.Form1.resources
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.Properties.Resources.resources
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.csproj.GenerateResource.Cache
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.csproj.CoreCompileInputs.cache
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.exe
+\\snir2012\commun\Pryzdatek\1SNIRGA\DOOLAEGHE\Projets C#\Equation2ndDeg\Equation2ndDeg\obj\Debug\Equation2ndDeg.pdb

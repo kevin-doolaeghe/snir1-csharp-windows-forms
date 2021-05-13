@@ -1,0 +1,10 @@
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.csprojResolveAssemblyReference.cache
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.Form1.resources
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.Properties.Resources.resources
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.csproj.GenerateResource.Cache
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.csproj.CoreCompileInputs.cache
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\bin\Debug\doolaeghe_ipcalcv4.exe.config
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\bin\Debug\doolaeghe_ipcalcv4.exe
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\bin\Debug\doolaeghe_ipcalcv4.pdb
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.exe
+D:\DOOLAEGHE\C#\doolaeghe_ipcalcv4\doolaeghe_ipcalcv4\obj\Debug\doolaeghe_ipcalcv4.pdb

@@ -1,0 +1,10 @@
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\bin\Debug\Jeu_Mystere.exe.config
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\bin\Debug\Jeu_Mystere.exe
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\bin\Debug\Jeu_Mystere.pdb
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.csprojResolveAssemblyReference.cache
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.Form1.resources
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.Properties.Resources.resources
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.csproj.GenerateResource.Cache
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.csproj.CoreCompileInputs.cache
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.exe
+D:\DOOLAEGHE\C#\Jeu_Mystere\Jeu_Mystere\obj\Debug\Jeu_Mystere.pdb

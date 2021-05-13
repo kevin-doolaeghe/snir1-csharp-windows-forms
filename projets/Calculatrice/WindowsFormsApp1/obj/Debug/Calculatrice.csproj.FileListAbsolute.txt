@@ -1,0 +1,10 @@
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\eleve\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,10 @@
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\bin\Debug\tp3_doolaeghe_mail-url.exe.config
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\bin\Debug\tp3_doolaeghe_mail-url.exe
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\bin\Debug\tp3_doolaeghe_mail-url.pdb
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail_url.Form1.resources
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail_url.Properties.Resources.resources
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail-url.csproj.GenerateResource.Cache
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail-url.csproj.CoreCompileInputs.cache
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail-url.exe
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail-url.pdb
+D:\DOOLAEGHE\C#\tp3_doolaeghe_mail-url\tp3_doolaeghe_mail-url\obj\Debug\tp3_doolaeghe_mail-url.csprojResolveAssemblyReference.cache
